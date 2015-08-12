@@ -1,0 +1,25 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Better CoffeeScript",
+		"CoffeeScriptHaml",
+		"CSScomb",
+		"Emmet",
+		"GitGutter",
+		"JSLint",
+		"LESS",
+		"Markdown Extended",
+		"Material Theme",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Predawn",
+		"SCSS",
+		"SideBarEnhancements",
+		"Siteleaf Liquid Syntax",
+		"Theme - Spacegray"
+	]
+}
