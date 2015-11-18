@@ -36,8 +36,8 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Pretty JSON",
 		"JSLint",
+		"Pretty JSON",
 		"Vintage"
 	],
 	"line_padding_bottom": 1,

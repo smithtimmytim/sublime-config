@@ -1,1 +1,1 @@
-{"platforms": ["*"], "description": "JSLint for Sublime Text 2 and 3.", "url": "https://github.com/73rhodes/Sublime-JSLint", "dependencies": [], "version": "2014.12.01.20.55.58", "sublime_text": "*"}
+{"version": "2015.10.15.21.27.16", "dependencies": [], "platforms": ["*"], "sublime_text": "*", "description": "JSLint for Sublime Text 2 and 3.", "url": "https://github.com/73rhodes/Sublime-JSLint"}
