@@ -3,6 +3,29 @@ History
 -------
 
 
+7.0.5 (2016-06-08)
+++++++++++++++++++
+
+- Upgrade wakatime-cli to master version to fix bug in urllib3 package causing
+  unhandled retry exceptions.
+- Prevent tracking git branch with detached head.
+
+
+7.0.4 (2016-05-21)
+++++++++++++++++++
+
+- Upgrade wakatime-cli to v6.0.3.
+- Upgrade requests dependency to v2.10.0.
+- Support for SOCKS proxies.
+
+
+7.0.3 (2016-05-16)
+++++++++++++++++++
+
+- Upgrade wakatime-cli to v6.0.2.
+- Prevent popup on Mac when xcode-tools is not installed.
+
+
 7.0.2 (2016-04-29)
 ++++++++++++++++++
 
